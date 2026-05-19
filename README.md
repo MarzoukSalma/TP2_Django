@@ -1,6 +1,6 @@
 Voici un `README.md` simple, propre et professionnel pour ton projet Django 👇
 
-````markdown
+
 # TP2 Django - Gestion des Formations
 
 Projet Django réalisé dans le cadre du TP2 à l’ENSAT.
