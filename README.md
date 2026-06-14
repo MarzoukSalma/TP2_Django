@@ -88,5 +88,3 @@ Projet réalisé par Salma Marzouk.
 
 ```
 
-Crée simplement un fichier `README.md` dans ton projet et colle ce contenu dedans ✅
-```
