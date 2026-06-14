@@ -1,5 +1,3 @@
-Voici un `README.md` simple, propre et professionnel pour ton projet Django 👇
-
 
 # TP2 Django - Gestion des Formations
 
